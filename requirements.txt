@@ -1,0 +1,6 @@
+SpeechRecognition==3.10.4
+pyttsx3~=2.90
+openai
+google-api-python-client
+oauth2client
+pyyaml==6.0.1
