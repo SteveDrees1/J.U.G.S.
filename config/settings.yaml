@@ -1,0 +1,4 @@
+commands:
+  - "turn on lights"
+  - "turn off lights"
+  - "exit"
